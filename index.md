@@ -6,7 +6,7 @@ title: Nadderud speidergruppe
 # Nadderud speidergruppe
 Spennende friluftsliv for barn og ungdom fra 3. klasse og oppover. Vi er en aktiv speidergruppe med ca. 100 medlemmer som dekker området Nadderud, Bekkestua, Hosle, Eikeli og Haslum.
 
-    PS: Vi har tekniske problemer med vår nettside, og har derfor denne siden som en midlertidig løsning.
+> PS: Vi har tekniske problemer med vår nettside, og har derfor denne siden som en midlertidig løsning.
 
 ## Terminliste
 
