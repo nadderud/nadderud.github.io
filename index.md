@@ -9,6 +9,7 @@ Spennende friluftsliv for barn og ungdom fra 3. klasse og oppover. Vi er en akti
     PS: Vi har tekniske problemer med vår nettside, og har derfor denne siden som en midlertidig løsning.
 
 ## Terminliste
+
 | Enhet         | Tidspunkt             | Tema              | Sted                | Ansvarlig    | Info       |
 | ------------- | --------------------- | ----------------- | ------------------- | ------------ | ---------- |
 | **November**   |||||
